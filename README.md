@@ -5,4 +5,4 @@
 
 This is the documentation folder linked to Leonardo article _**details to add**_
 
-It will contain supplementary materials on sampling results.
+The WIKI will contain supplementary materials on sampling results.
